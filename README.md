@@ -1,3 +1,3 @@
 # euske.github.io
 
-Slides: https://euske.github.io/slides/index.html
+<a href="https://euske.github.io/slides/index.html">Slides</a>
